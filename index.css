@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+@import url(./block/page/page.css);
+@import url(./block/cards/cards.css);
+@import url(./block/card/card.css);
+@import url(./block/card/__date-container/card__date-container.css);
+@import url(./block/card/__title/card__title.css);
+@import url(./block/card/__title/_place/card__title_place_cover.css);
+@import url(./block/card/__description/card__description.css);
+@import url(./block/card/__description/_place/card__description_place_cover.css);
+@import url(./block/card/__link/card__link.css);
+@import url(./block/card/__list/card__list.css);
+@import url(./block/card/__list-item/card__list-item.css);
+@import url(./block/card/__form/card__form.css);
+@import url(./block/card/__input/card__input.css);
+@import url(./block/card/__button/card__button.css);
+@import url(./block/card/__button/_color/card__button_color_yellow.css);
+@import url(./block/card/__button/_color/card__button_color_white.css);
+
